@@ -1,0 +1,9 @@
+- overriding(ghi đè)
+    - cùng tên
+    - lớp con viết lại phương thức từ lớp chs
+    - lớp cpn ghi lại phương thức từ lớp cha
+    - lớp con gọi đến phương thứ và thuộc tính của lớp chs qua parent
+- overloading
+    - cùng tên
+    - lớp con viết lại phương thức từ lớp chs
+    - khác số lượng tham số truyền vào hoặc kiểu dữ liệu trả về
